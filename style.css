@@ -1,0 +1,37 @@
+body {
+  background-color: lightskyblue;
+  
+}
+
+
+h1 {
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+  
+}
+
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+img{ height: 100px;
+    width: 100px;    
+}
+
+div{
+  display: inline-block;
+  position:relative;
+}
+
+h5{ font-family: "Times New Roman", Times, serif;
+   }
+.introduction{ color: rgb(255,100,0);
+}
+
+.end{
+  color: rgb(0,0,0);
+  opacity: 50%;
+}

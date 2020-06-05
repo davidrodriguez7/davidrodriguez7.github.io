@@ -29,10 +29,3 @@ h5{ font-family: "Times New Roman", Times, serif;
   color: rgb(0,0,0);
   opacity: 50%;
 }
-a:link{
-  background-color: #ffee5f;
-  padding: 5px 10px;
-  text-decoration: none;}
-a:visited{ background-color: #afafaf
-  padding: 5px 10px;
-  text-decoration: none;}

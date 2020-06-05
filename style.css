@@ -1,9 +1,3 @@
-body {
-  background-color: lightskyblue;
-  
-}
-
-
 h1 {
   font-weight: bold;
   text-decoration: underline;
@@ -17,8 +11,8 @@ p {
 }
 
 
-img{ height: 100px;
-    width: 100px;    
+img{ height: 200px;
+    width: 200px;    
 }
 
 div{
@@ -39,7 +33,6 @@ a:link{
   background-color: #ffee5f;
   padding: 5px 10px;
   text-decoration: none;}
-
 a:visited{ background-color: #afafaf
   padding: 5px 10px;
   text-decoration: none;}
